@@ -1,0 +1,31 @@
+{
+  "name": "project-seed",
+  "version": "1.0.0",
+  "description": "a new project seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenSaizhong/Project-Seed.git"
+  },
+  "keywords": [
+    "seed"
+  ],
+  "author": "ChenSaizhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenSaizhong/Project-Seed/issues"
+  },
+  "homepage": "https://github.com/ChenSaizhong/Project-Seed#readme",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^1.1.2",
+    "karma-junit-reporter": "^1.2.0"
+  }
+}
